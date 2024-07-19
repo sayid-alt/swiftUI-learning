@@ -20,6 +20,7 @@
 		AF83531E2C34697100204F1F /* LandmarkUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF83531D2C34697100204F1F /* LandmarkUITests.swift */; };
 		AF8353202C34697100204F1F /* LandmarkUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF83531F2C34697100204F1F /* LandmarkUITestsLaunchTests.swift */; };
 		AF94310B2C49DCEB0015F6D3 /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF94310A2C49DCEB0015F6D3 /* LandmarkRow.swift */; };
+		AF94310D2C49EB7D0015F6D3 /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF94310C2C49EB7D0015F6D3 /* LandmarkList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +57,7 @@
 		AF83531D2C34697100204F1F /* LandmarkUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkUITests.swift; sourceTree = "<group>"; };
 		AF83531F2C34697100204F1F /* LandmarkUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		AF94310A2C49DCEB0015F6D3 /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
+		AF94310C2C49EB7D0015F6D3 /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -148,6 +150,7 @@
 				AF6168932C35A45E00CD7613 /* CircleImage.swift */,
 				AF2044322C383EC500F90ED0 /* MapView.swift */,
 				AF94310A2C49DCEB0015F6D3 /* LandmarkRow.swift */,
+				AF94310C2C49EB7D0015F6D3 /* LandmarkList.swift */,
 			);
 			path = Viwes;
 			sourceTree = "<group>";
@@ -303,6 +306,7 @@
 				AF8353052C34696E00204F1F /* ContentView.swift in Sources */,
 				AF2044332C383EC500F90ED0 /* MapView.swift in Sources */,
 				AF94310B2C49DCEB0015F6D3 /* LandmarkRow.swift in Sources */,
+				AF94310D2C49EB7D0015F6D3 /* LandmarkList.swift in Sources */,
 				AF8353032C34696E00204F1F /* LandmarkApp.swift in Sources */,
 				AF6168942C35A45E00CD7613 /* CircleImage.swift in Sources */,
 				AF2044392C38499C00F90ED0 /* Landmark.swift in Sources */,
